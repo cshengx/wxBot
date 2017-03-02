@@ -1,0 +1,16 @@
+{
+  "name": "wxbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WxBot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiacs",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^2.1.0",
+    "typescript": "^2.2.1",
+    "wechaty": "^0.7.17"
+  }
+}
