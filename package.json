@@ -13,5 +13,8 @@
     "ts-node": "^2.1.0",
     "typescript": "^2.2.1",
     "wechaty": "^0.7.17"
+  },
+  "dependencies": {
+    "chromedriver": "^2.27.3"
   }
 }
