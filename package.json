@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "chromedriver": "^2.27.3",
-    "request": "^2.81.0",
+    "es6-promise": "^4.1.0",
+    "isomorphic-fetch": "^2.2.1",
     "wechaty": "^0.7.82"
   }
 }
