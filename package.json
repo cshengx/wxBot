@@ -10,11 +10,11 @@
   "author": "xiacs",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^2.2.1",
-    "wechaty": "^0.7.17"
+    "typescript": "^2.2.1"
   },
   "dependencies": {
     "chromedriver": "^2.27.3",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "wechaty": "^0.7.82"
   }
 }
